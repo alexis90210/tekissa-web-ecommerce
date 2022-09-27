@@ -1,0 +1,23 @@
+{
+  "name": "tekissa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "aos": "^2.3.4",
+    "console": "^0.7.2",
+    "cookie-universal-nuxt": "^2.1.5",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "nuxt-buefy": "^0.4.8",
+    "swiper": "^8.1.4",
+    "v-owl-carousel": "^1.0.8",
+    "vue-owl-carousel": "^2.0.3"
+  }
+}
